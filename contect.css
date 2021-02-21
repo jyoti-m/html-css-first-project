@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;          
+}
+header{
+         padding: 1px;
+         background-color: rgb(red, green, blue, alpha);     
+}
+header h1{
+           text-align: center;
+           font-size: 20px;
+           color: rgb(red, green, blue);
+           font-family: cursive;   
+}
+main{
+              background-color: rgb(red, green, blue);
+              text-align: left;
+              font-size: 20px;
+}

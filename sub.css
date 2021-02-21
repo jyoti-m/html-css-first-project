@@ -1,0 +1,19 @@
+*{
+     box-sizing: border-box;         
+}
+header{
+          padding: 1px;
+          background-color: peachpuff;    
+}
+header h1{
+           text-align: center;
+           font-size: 30px;
+           color: aquamarine;  
+           
+           font-family: cursive;
+}
+main{
+       background-color: aquamarine;
+       text-align: left;
+       font-size: 30px;       
+}
